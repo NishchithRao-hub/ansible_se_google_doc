@@ -18,7 +18,7 @@ A Colab notebook that converts a specific markdown meeting note into a well-form
 - `google-api-python-client`
 - `google-auth`
 - `google-auth-oauthlib`
-- 
+  
 ## How to run (in Colab)
 1. Open Google Colab: https://colab.research.google.com/.
 2. Create a new notebook and copy the notebook cells from the repository (or upload the `.ipynb` file).
